@@ -115,7 +115,7 @@ const experiences = [
         iconBg: "#383E56",
         date: "July 2021 - Ago 2021",
         description:
-            "Hellcraft fue mi primer proyecto, era un evento plublico de un mes de duracion, la mecanica principal es si mueres queda permanentemente baneado",
+            "Hellcraft fue mi primer proyecto, era un evento plublico de un mes de duracion, la mecánica principal es si mueres queda permanentemente baneado",
         points: [],
     },
     {
@@ -147,7 +147,7 @@ const experiences = [
         icon: squid_min,
         iconBg: "#ecab0d",
         date: "Oct 2022 - Marzo 2023",
-        description: "Mi primer evento de estando dentro de Eufonia Studio",
+        description: "Mi primer evento estando dentro de Eufonia Studio",
         points: [
             "Obtube mayor experiencia para trabajo en equipo.",
             "Aprendi a trabajar bajo situciones de estres en eventos en vivo.",
@@ -220,7 +220,7 @@ const projects = [
     {
         name: "Backrooms",
         description:
-            "El Hoyo, fue un evento del streamer Soaring, basado en los espacios liminales, fue realizado por el estudio de desarrollo Eufonia Studio.",
+            "Backrooms, fue un evento del streamer Soaring, basado en los espacios liminales, fue realizado por el estudio de desarrollo Eufonia Studio.",
         tags: [
             {
                 name: "minecraft",
