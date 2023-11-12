@@ -123,7 +123,7 @@ const experiences = [
         company_name: "MitosV",
         icon: cinematic,
         iconBg: "#90ddd0",
-        date: "Sep 2021 - Oct 2021",
+        date: "Sep 2022 - Oct 2022",
         description:
             "Este fue unos de mis primeros mod creados para Minecraft.",
         points: [
@@ -136,7 +136,7 @@ const experiences = [
         company_name: "Eufonia Studio",
         icon: "https://pbs.twimg.com/profile_images/1650320444577251329/sOZrOtF9_400x400.jpg",
         iconBg: "#0e1620",
-        date: "Jan 2021 - Feb 2022",
+        date: "Oct 2022 - Actualidad",
         description:
             "Eufonia Studios, es una empresa desarrolladora de juegos, especializada en eventos de minecraft para creadores de contenido.",
         points: [],
@@ -146,7 +146,7 @@ const experiences = [
         company_name: "Eufonia Studio",
         icon: squid_min,
         iconBg: "#ecab0d",
-        date: "Jan 2023 - Present",
+        date: "Oct 2022 - Marzo 2023",
         description: "Mi primer evento de estando dentro de Eufonia Studio",
         points: [
             "Obtube mayor experiencia para trabajo en equipo.",
