@@ -19,11 +19,6 @@ import python from "./tech/python.png";
 import link from "./link.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
 import squid from "./projects/squid.jpg";
 import hoyo from "./projects/hoyo.gif";
 import backrooms from "./projects/backrooms.gif";
@@ -53,10 +48,6 @@ export {
     typescript,
     link,
     threejs,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
     squid,
     hoyo,
     backrooms,
